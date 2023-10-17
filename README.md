@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/priyaranjankumar](github.com/priyaranjankumar)
 
-- 📝 I regularly write articles on [https://dev.to/priyaranjankumar](https://dev.to/priyaranjankumar)
+- 📝 Find my articles on [https://dev.to/priyaranjankumar](https://dev.to/priyaranjankumar)
 
 - 📫 How to reach me **mishrasubham00@gmail.com**
 
