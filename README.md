@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaranjankumar&label=Profile%20views&color=0e75b6&style=flat" alt="priyaranjankumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyaranjankumar&theme=onedark" alt="priyaranjankumar" /></a> </p>
-
 - 🌱 I’m currently learning and working with **COBOL, JCL, CICS, SHELL SCRIPS, C, POWERSHELL, DB2,MongoDB ...**
 
 - 👨‍💻 All of my projects are available at [github.com/priyaranjankumar](github.com/priyaranjankumar)
