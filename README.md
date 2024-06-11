@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaranjankumar&label=Profile%20views&color=0e75b6&style=flat" alt="priyaranjankumar" /> </p>
 
-- 🌱 I’m currently learning and working with **COBOL, JCL, CICS, SHELL SCRIPS, C, POWERSHELL, DB2,MongoDB ...**
+- 🌱 I’m currently learning and working with **COBOL, JCL, CICS, REXX, SHELL SCRIPS, C, POWERSHELL, DB2,MongoDB ...**
 
 - 👨‍💻 All of my projects are available at [github.com/priyaranjankumar](github.com/priyaranjankumar)
 
